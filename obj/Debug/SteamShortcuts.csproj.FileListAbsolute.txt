@@ -1,0 +1,7 @@
+N:\Code General\SteamShortcuts\bin\Debug\SteamShortcuts.exe.config
+N:\Code General\SteamShortcuts\bin\Debug\SteamShortcuts.exe
+N:\Code General\SteamShortcuts\bin\Debug\SteamShortcuts.pdb
+N:\Code General\SteamShortcuts\obj\Debug\SteamShortcuts.csprojAssemblyReference.cache
+N:\Code General\SteamShortcuts\obj\Debug\SteamShortcuts.csproj.CoreCompileInputs.cache
+N:\Code General\SteamShortcuts\obj\Debug\SteamShortcuts.exe
+N:\Code General\SteamShortcuts\obj\Debug\SteamShortcuts.pdb
